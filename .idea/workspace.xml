@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1d87e84-dad5-4616-9239-3a55c0f041a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/au_dius_pact_jvm_consumer_junit5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/bluecatcode_junit_4_10_extended.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/campo minado.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/cod3r/cm/Aplicacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/cod3r/cm/excecao/ExplosaoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/cod3r/cm/excecao/SairException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/cod3r/cm/modelo/Campo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/cod3r/cm/modelo/CampoTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/cod3r/cm/modelo/Tabuleiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/cod3r/cm/visao/TabuleiroConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
